@@ -10,7 +10,7 @@
 
 <b>민경빈</b>
 
-![alt text](./img/selfie.jpg)
+<img src="./img/selfie.jpg" style="width:200px; height: 200px" />
 
 - phone: 010-6630-8531
 - email: minkb01@gmail.com

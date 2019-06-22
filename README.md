@@ -18,6 +18,7 @@
 - RoekctPunch: [민경빈](https://www.rocketpunch.com/@e3c160bc65cc47bf/info)
 
 제가 아는 것들을 남들에게 가르쳐주는 삶을 살고 싶습니다.
+
 매사를 긍정적으로 생각하는 삶을 살기 위해 노력 중입니다.
 
 ## 기술
@@ -109,6 +110,7 @@ Github같은 소스 공동 작업 프로그램에서 Push, Pull, Commit등의 �
 ![alt text](./img/flss.png)
 
 [Repository](https://github.com/DGSW-FLUT/flss-web)
+
 [Site](http://flss.kr)
 
 ### 5. T-Messenger

@@ -96,7 +96,7 @@ Github같은 소스 공동 작업 프로그램에서 Push, Pull, Commit등의 �
   - [SERVER](https://github.com/mango906/Catch_Mind_SERVER)
   - [Client](https://github.com/mango906/React_Catch_Mind)
 
-### 4. FLSS - 거꾸로 수업 프로젝트
+### 4. FLSS-거꾸로 수업 프로젝트
 
 **2018-09 ~ 2018-11**
 
@@ -126,7 +126,7 @@ Github같은 소스 공동 작업 프로그램에서 Push, Pull, Commit등의 �
 
 Repository - **Private**
 
-### 6. 도담도담 - 편리한 기숙사 관리
+### 6. 도담도담-편리한 기숙사 관리
 
 **2019-03 ~ing**
 

@@ -134,7 +134,7 @@ Repository - **Private**
 
 현재 학교에서 학생 위치 조회, 외출 및 외박 등 기숙사 생활과 관련된 작업들은 아날로그 식으로 진행되어 굉장히 번거롭습니다. 이런 문제를 해결하기 위해 기숙사 관리 시스템을 만들어보았습니다. 웹, 모바일, 윈도우 플랫폼에서 지원을 하며 그중 저는 웹 프론트엔드 팀을 맡았습니다.
 
-사용기술: React, Redux, Scss, Zeplin
+사용기술: React, MobX, Scss, Zeplin
 
 ![alt text](./img/dodamdodam.png)
 

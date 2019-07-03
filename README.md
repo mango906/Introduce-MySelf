@@ -153,4 +153,4 @@ Repository - **Private**
 
 사용기술: JavaScript, Node.js, Express.js, Socket.IO, Mysql
 
-![alt text](./img/chrome-vchat.jpg)
+![alt text](./img/chrome-vchat.JPG)

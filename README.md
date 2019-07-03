@@ -143,7 +143,7 @@ Repository - **Private**
 
 ### 7. 크롬-확장프로그램-음성채팅
 
-**2019-05 ~ 2019.07**
+**2019-05 ~ 2019.06**
 
 프로젝트 실무 시간에 자유주제로 개발하는 프로젝트가 있었는데, 크롬 확장프로그램을 개발해 보고싶어 만들어본 프로젝트 입니다.
 
@@ -154,3 +154,5 @@ Repository - **Private**
 사용기술: JavaScript, Node.js, Express.js, Socket.IO, Mysql
 
 ![alt text](./img/chrome-vchat.JPG)
+
+[Repository](https://github.com/mango906/Chrome-VChat)

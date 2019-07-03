@@ -10,7 +10,7 @@
 
 <b>민경빈</b>
 
-![alt text](./img/selfie.jpg)
+![alt text](./img/selfie.jpg){: width="300" height="300"}
 
 - phone: 010-6630-8531
 - email: minkb01@gmail.com
@@ -50,6 +50,7 @@
 4. [FLSS - 거꾸로 수업 프로젝트](#4-flss-거꾸로-수업-프로젝트)
 5. [T-Messenger](#5-t-messenger)
 6. [도담도담 - 편리한 기숙사 관리](#6-도담도담-편리한-기숙사-관리)
+7. [Chrome - VChat](#7-크롬-확장프로그램-음성채팅)
 
 ### 1. 실시간 코딩 협업 도구
 
@@ -139,3 +140,17 @@ Repository - **Private**
 ![alt text](./img/dodamdodam.png)
 
 Repository - **Private**
+
+### 7. 크롬-확장프로그램-음성채팅
+
+**2019-05 ~ 2019.07**
+
+프로젝트 실무 시간에 자유주제로 개발하는 프로젝트가 있었는데, 크롬 확장프로그램을 개발해 보고싶어 만들어본 프로젝트 입니다.
+
+처음으로 서버로 DB와 연동을 직접 해보았고, 이 프로젝트를 진행하면서 서버에 대해서도 관심이 가기 시작했습니다.
+
+로그인, 회원가입, 방 생성.참가, 음성 채팅 기능을 지원합니다.
+
+사용기술: JavaScript, Node.js, Express.js, Socket.IO, Mysql
+
+![alt text](./img/chrome-vchat.jpg)

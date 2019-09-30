@@ -16,6 +16,7 @@
 - email: minkb01@gmail.com
 - github: [mango906](https://github.com/mango906)
 - RoekctPunch: [민경빈](https://www.rocketpunch.com/@e3c160bc65cc47bf/info)
+- gitlab: [behappylife](https://gitlab.com/behappylife)
 
 제가 아는 것들을 남들에게 가르쳐주는 삶을 살고 싶습니다.
 

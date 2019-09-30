@@ -30,6 +30,7 @@
     - JQuery
     - Vue.js
     - React
+    - React Native
 
 * **백엔드 기술** Back-end Skills
 
@@ -41,6 +42,13 @@
   - Git
   - Github
   - Zeplin
+  - Slack
+  - Notion
+
+* **공부중인 기술**
+  
+  - Redux
+  - TypeScript
 
 ## 프로젝트
 
